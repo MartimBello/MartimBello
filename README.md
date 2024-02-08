@@ -1,5 +1,5 @@
 ### Hi, I am Martim Bello 👋
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic
+
 
 <!--
 **MartimBello/MartimBello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: martimbello@live.com.pt
 - ⚡ Fun fact: I played the Rugby World Cup 2023 for Portugal
 
+### Technology Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
