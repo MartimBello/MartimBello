@@ -1,6 +1,7 @@
 ### Hi, I am Martim Bello 👋
 
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 <!--
 **MartimBello/MartimBello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
